@@ -1,4 +1,4 @@
-[Email](mailto:mnadddaff@gmail.com) / [Website](https://realmgn.com/) / [LinkedIn](https://www.linkedin.com/in/matthew-naddaff/) / [GitHub](https://github.com/mattnadd/) / 
+[Email](mailto:mnadddaff@gmail.com) / [Website](https://realmgn.com/) / [LinkedIn](https://www.linkedin.com/in/matthew-naddaff/) 
 
 ## Welcome to GitHub Pages
 
